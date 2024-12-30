@@ -11,6 +11,7 @@
   
 - 🐍 **Python**
 - 📊 **Data Science**
+- 🤯 **Artificial Intelligence**
 - 🤖 **Machine Learning**
 - 🧠 **Deep Learning**
 - 🔍 **Pattern Recognition**
