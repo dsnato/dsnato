@@ -30,5 +30,5 @@ I build intelligent solutions that combine data, machine learning, and innovatio
 - **LinkedIn:** [https://www.linkedin.com/in/dsnato/](#)  
 - **Email:** [datasciencenato@gmail.com](#)  
 
-Let's build something amazing together! 🚀✨
+Let's build something amazing together! ✨
 
