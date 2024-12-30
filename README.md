@@ -1,13 +1,12 @@
 ## 👋 Hello, I'm Nato!
 
-🎓 **Information Systems** | **UFRPE**  
-📸 **Instagram:** [ds.nato](https://www.instagram.com/ds.nato)  
-💻 Passionate about **Technology**, **Business**, and **Education**
+👨‍💻 **Information Systems** | **UFRPE**  
+🚀 Passionate about **Technology**, **Business**, and **Education**
 
 ---
 
 <details>
-  <summary>🚀 <b>Technologies and Skills</b></summary>
+  <summary>📚 <b>Technologies and Skills</b></summary>
   
 - 🐍 **Python**
 - 📊 **Data Science**
