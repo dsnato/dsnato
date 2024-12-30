@@ -32,7 +32,3 @@ I build intelligent solutions that combine data, machine learning, and innovatio
 
 Let's build something amazing together! 🚀✨
 
----
-
-![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatosamico&show_icons=true&theme=radical)
-
