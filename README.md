@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nato!
 
-🎓 **Information Systems** | **UFPE**  
+🎓 **Information Systems** | **UFRPE**  
 📸 **Instagram:** [ds.nato](https://www.instagram.com/ds.nato)  
 💻 Passionate about **Technology**, **Business**, and **Education**
 
