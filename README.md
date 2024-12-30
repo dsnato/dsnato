@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Renato!
+## 👋 Hello, I'm Nato!
 
 🎓 **Information Systems** | **UFPE**  
 📸 **Instagram:** [ds.nato](https://www.instagram.com/ds.nato)  
