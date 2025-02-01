@@ -6,7 +6,7 @@
 ---
 
 🌟 **About Me**  
-I build intelligent solutions that combine data, machine learning, and innovation.
+🔹 I'm on a journey to become a Data Scientist, mastering AI, with a strong focus on Pattern Recognition to uncover insights and build intelligent solutions.
 
 ---
 
