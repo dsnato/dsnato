@@ -21,8 +21,8 @@
 ---
 
 📊 **My Stats**  
-![Nato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Nato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsnato&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsnato&layout=compact&theme=radical)
 
 ---
 
@@ -32,8 +32,7 @@ I build intelligent solutions that combine data, machine learning, and innovatio
 ---
 
 📫 **Get in Touch:**  
-- **Instagram:** [ds.nato](https://www.instagram.com/ds.nato)  
-- **YouTube:** [shortly](#)  
+- **Instagram:** [ds.nato](https://www.instagram.com/ds.nato)   
 - **LinkedIn:** [https://www.linkedin.com/in/dsnato/](#)  
 - **Gmail:** [datasciencenato@gmail.com](#)  
 
