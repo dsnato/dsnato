@@ -5,7 +5,12 @@
 
 ---
 
-## 📚 Technologies and Skills  
+🌟 **About Me**  
+I build intelligent solutions that combine data, machine learning, and innovation.
+
+---
+
+## 📚 Technologies and Skills (in development) 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](#)  
@@ -21,11 +26,6 @@
 📊 **My Stats**  
 ![Nato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsnato&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsnato&layout=compact&theme=radical)
-
----
-
-🌟 **About Me**  
-I build intelligent solutions that combine data, machine learning, and innovation.
 
 ---
 
