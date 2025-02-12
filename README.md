@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nato!
 
-🎓 **Business Administration** | **UFPE**
+🎓 **Business Administration** | **UFPE**  
 👨‍💻 **Information Systems** | **UFRPE**  
 🚀 Passionate about **Technology**, **Business**, and **Education**
 
