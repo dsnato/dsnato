@@ -1,11 +1,12 @@
 ## 👋 Hello, I'm Nato!
 
+🎓 **Business Administration** | **UFPE**
 👨‍💻 **Information Systems** | **UFRPE**  
 🚀 Passionate about **Technology**, **Business**, and **Education**
 
 ---
 
-## 🌟 About Me  
+## 🧠 About Me  
 
 🔹 I'm on a journey to become a Data Scientist, mastering AI, with a strong focus on Pattern Recognition to uncover insights and build intelligent solutions.
 
