@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 Technologies and Skills (in development) 
+## 📚 Technologies and Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
