@@ -8,7 +8,7 @@
 
 ## 🧠 About Me  
 
-🔹 I'm on a journey to become a Data Scientist, mastering AI, with a strong focus on Pattern Recognition to uncover insights and build intelligent solutions.  
+🔹 I'm on a journey to become a Data Scientist, mastering AI, with a strong focus on Evolutionary Computation to uncover insights and build intelligent solutions.  
 🔹 +10 years working in the Business area for large companies such as: Amcham, Stone, Banco Safra and PagSeguro.
 
 ---
